@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": "String":,
+    "title": "String",
     "views": "Int",
     "published": "Comment[]"
   },
